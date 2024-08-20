@@ -6,9 +6,12 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software Engineering is the systematic application of engineering principles, methods and tools to develop and maintain high quality software systems. Software engineering helps to develop software systems that provide solutions to users.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+The first milestone was the development of programming languages such as Fortran C. Fortran C was developed by John Backus and was used to solve scietific and mathematical problems
+The Second Milestone was the establishment of software engineering as a discipline. This establishment was due to the increased software crisis of the 1970s and 1980s which called for a discipline to address the problems of software development
+The third milestone was the rise of structured programming in the 1970s. Structured programming aims to improve the reliability and clarity of programs.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
